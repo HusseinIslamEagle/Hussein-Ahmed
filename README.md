@@ -14,7 +14,7 @@ I specialize in **AR/VR applications for engineering and design**, and I’m exp
 - 🔭 Working on: **AR/VR-based engineering visualization tools**  
 - 🧠 Interests: **Immersive Tech | AI Tools | Structural Simulation**  
 - 🌍 Languages: **Python | JavaScript | C# | English | Arabic**  
-- 📫 Reach me at: **[aha.hussein@gmail.com](mailto:aha.hussein@gmail.com)**  
+- 📫 Reach me at: **[aha.hussein3@gmail.com](mailto:aha.hussein@gmail.com)**  
 
 ---
 
